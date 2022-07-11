@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cv mobile app</string>
+    <string name="name">Henry More</string>
+    <string name="exp">Profesional Técnico informático con más de 4 años de experiencia en industrias de desarrollo de software y tecnología. Me especializo en asesoría técnica y asistencia en el mantenimiento de ordenadores.</string>
+    <string name="fecha">22 Agosto 1989</string>
+    <string name="dir">Lima 2022</string>
+    <string name="em">338297@senati.pe</string>
+    <string name="tel">970970144</string>
+    <string name="per">Experience</string>
+    <string name="inte">Interes</string>
+    <string name="bak">Background</string>
+    <string name="por">Portfolio</string>
+    <string name="perf">Tecnologia de la información</string>
+    <string name="expe">Analista y soporte Informatico</string>
+
+</resources>
